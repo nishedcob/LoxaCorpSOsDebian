@@ -3,4 +3,8 @@ lite/x64/.build/
 lite/x64/cache/
 lite/x64/chroot/
 lite/x64/config/
+pro/x64/.build/
+pro/x64/cache/
+pro/x64/chroot/
+pro/x64/config/
 
