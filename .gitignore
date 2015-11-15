@@ -1,1 +1,6 @@
 build.sh
+lite/x64/.build/
+lite/x64/cache/
+lite/x64/chroot/
+lite/x64/config/
+
