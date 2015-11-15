@@ -7,4 +7,22 @@ pro/x64/.build/
 pro/x64/cache/
 pro/x64/chroot/
 pro/x64/config/
+lite/x64/binary/
+lite/x64/chroot.files
+lite/x64/chroot.packages.install
+lite/x64/chroot.packages.live
+lite/x64/loxacorp-lite-0.1-amd64.contents
+lite/x64/loxacorp-lite-0.1-amd64.files
+lite/x64/loxacorp-lite-0.1-amd64.hybrid.iso
+lite/x64/loxacorp-lite-0.1-amd64.hybrid.iso.zsync
+lite/x64/loxacorp-lite-0.1-amd64.packages
+pro/x64/binary/
+pro/x64/chroot.files
+pro/x64/chroot.packages.install
+pro/x64/chroot.packages.live
+pro/x64/loxacorp-pro-0.1-amd64.contents
+pro/x64/loxacorp-pro-0.1-amd64.files
+pro/x64/loxacorp-pro-0.1-amd64.hybrid.iso
+pro/x64/loxacorp-pro-0.1-amd64.hybrid.iso.zsync
+pro/x64/loxacorp-pro-0.1-amd64.packages
 
