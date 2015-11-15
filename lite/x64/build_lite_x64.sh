@@ -17,6 +17,6 @@ echo "vim-gtk gnupg2 thunar xfce4-terminal pv htop powertop iftop iotop gparted 
 #./custom_cmds.sh
 lb build &&
 for i in live-image-amd64.*; do
-	mv $i i3bian-lite-0.4-`echo $i | awk -F"-" '{print $3}'` ;
+	mv $i loxacorp-lite-0.1-`echo $i | awk -F"-" '{print $3}'` ;
 done
 
